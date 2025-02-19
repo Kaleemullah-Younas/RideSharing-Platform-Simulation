@@ -24,6 +24,11 @@ The project is organized into several key modules:
 - **Data & Metrics Module:** Collects and analyzes simulation data to provide performance insights.
 - **Configuration & Customization:** Allows users to easily modify simulation parameters to suit various testing environments.
 
+
+
+## NOTE - It is not deployed bcz it contains certain libraries which utilize or access certain variables from local system like CPU usage.
+
+
 ## How to Run the Simulation
 
 1. **Clone the Repository:**  
